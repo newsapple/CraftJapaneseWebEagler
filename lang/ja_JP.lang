@@ -1728,7 +1728,7 @@ key.togglePerspective=視点の切り替え
 key.use=アイテムの使用/ブロックの設置
 lanServer.otherPlayers=他のプレイヤーのための設定
 lanServer.scanning=LAN内のゲームを検索しています
-lanServer.start=LANワールドの開始
+lanServer.start=友達招待モードを開始
 lanServer.title=LANワールド
 language.code=ja_JP
 language.name=日本語
@@ -2002,7 +2002,7 @@ selectServer.delete=削除
 selectServer.deleteButton=削除
 selectServer.deleteQuestion=このサーバーを削除してもよろしいですか？
 selectServer.deleteWarning=は完全に削除され、二度と元に戻せません！
-selectServer.direct=ダイレクト接続
+selectServer.direct=友だちと遊ぶ
 selectServer.edit=編集
 selectServer.empty=未選択
 selectServer.hiddenAddress=(非表示)
@@ -2515,3 +2515,11 @@ translation.test.invalid=hi %
 translation.test.invalid2=hi %s
 translation.test.none=Hello, world!
 translation.test.world=world
+
+
+# === site custom (shared world friendly labels) ===
+eaglercraft.directConnect.lanWorld=コードを入力して友だちと遊ぶ
+eaglercraft.directConnect.lanWorldCode=参加コードを入力:
+eaglercraft.directConnect.lanWorldJoin=ワールドに参加
+eaglercraft.menu.openToLan=友達を招待する
+eaglercraft.lanServer.opened=友達招待モードを開始しました。参加コードは§a$code$§rです
